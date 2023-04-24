@@ -702,6 +702,7 @@ body{
   .contact form .input-box input{
     width: 100%;
   }
+  
   .home-img{
     max-width: 90vw;
     max-height: 90vw;
@@ -710,9 +711,20 @@ body{
      /* animation: none; */
 
   }
+  .about{
+    padding: 0px 20px;
+    height: 100vh;
+  }
+  .about-content p{
+    font-size: 1.2rem;
+  }
+  .about-img{
+    display: none;
+  }
 
   .about-img img{
     width: 30vw;
+
   }
 }
 
